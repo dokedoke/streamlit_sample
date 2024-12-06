@@ -1,1 +1,3 @@
 streamlit==1.40.1
+deep_translator
+pandas
